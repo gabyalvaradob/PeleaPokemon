@@ -1,0 +1,9 @@
+.card{
+    margin-top: 25px;
+}
+
+#vs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
